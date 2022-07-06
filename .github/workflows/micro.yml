@@ -9,4 +9,4 @@ jobs:
     steps:
       - run: gh workflow run render.yml --ref smallweb --repo sio/potyarkin.ml
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.PAGES_TOKEN }}
