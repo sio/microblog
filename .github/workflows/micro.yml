@@ -1,0 +1,12 @@
+name: microblog-trigger
+
+on:
+  push:
+
+jobs:
+  trigger-update:
+    runs-on: ubuntu-latest
+    steps:
+      - run: gh workflow run render.yml --ref smallweb
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
