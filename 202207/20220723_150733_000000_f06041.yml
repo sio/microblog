@@ -1,0 +1,10 @@
+timestamp: |-
+  2022-07-23T15:07:33+00:00
+author: Vitaly Potyarkin
+content: |-
+  Yeah! As if it could be that easy ^_^
+
+  'git push' failed with a 'no user exists for uid' and I had to dig through OpenSSH code to learn that it's not fixable: https://potyarkin.ml/posts/2022/no-user-exists-for-uid/
+
+  So now my container is sporting an ugly setuid binary and everyone is happy :-) https://github.com/sio/microblog-server/blob/1468a8832805f8a72252473020085495d31efcb9/container/addpasswd.c
+markup: plaintext
