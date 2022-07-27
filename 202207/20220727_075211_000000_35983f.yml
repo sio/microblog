@@ -1,10 +1,9 @@
 timestamp: |-
   2022-07-27T07:52:11+00:00
 author: Vitaly Potyarkin
-content: |-
-  I'm surrounded by failing hardware. UPS that "protects" my home server has a dead battery. Router at my parents' home has a dead power supply.
-
-  Such small failures are tiresome to fix. Frankly, it's cheaper and easier to toss bad device to a landfill than to fix it.
-
-  Yeah. Landfills. I'll try to remember about them next time I'm grumpy with a multimeter in hand
+content: "I'm surrounded by failing hardware. UPS that \"protects\" my home server\
+  \ has a dead battery. Router at my parents' home has a dead power supply.\n\nSuch\
+  \ small failures are tiresome to fix. Frankly, it's cheaper and easier to toss bad\
+  \ device to a landfill than to fix it. \n\nYeah. Landfills. I'll try to remember\
+  \ about them next time I'm grumpy with a multimeter in hand"
 markup: plaintext
