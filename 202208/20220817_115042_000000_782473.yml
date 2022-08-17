@@ -4,5 +4,5 @@ author: Vitaly Potyarkin
 content: |-
   I love seeing green in unit tests.
 
-  Sometimes when I'm procrastinating I'll just rerun a make test even though I didn't modify any code. Green lines dropping into terminal are just pretty...
+  Sometimes when I'm procrastinating I'll just rerun a 'make test' even though I didn't modify any code. Green lines dropping into terminal are just pretty...
 markup: plaintext
