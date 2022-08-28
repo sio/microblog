@@ -1,0 +1,8 @@
+timestamp: |-
+  2022-08-28T21:15:28+00:00
+author: Vitaly Potyarkin
+content: |-
+  Hooray! I'm not running any Debian Buster instances anymore!
+
+  I'm only two weeks late - approximate EOL date is 2022-08-14, exactly one year since Bullseye release. Not exactly good timing, but not too bad for a homelab.
+markup: plaintext
