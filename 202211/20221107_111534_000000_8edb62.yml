@@ -1,0 +1,10 @@
+timestamp: |-
+  2022-11-07T11:15:34+00:00
+author: Vitaly Potyarkin
+content: |-
+  Recently I've started to prefer Golang over Python for my hobby projects.
+
+  Easy to distribute binaries and easy concurrency have outweighed initial superfluous rejection over use of tabs for indentation and "err != nil" everywhere.
+
+  Also, golang dependency ecosystem at least gives me some hope that years down the line some old project of mine will remain buildable. Of course, this may turn out to be just a beginner's illusion :-)
+markup: plaintext
