@@ -1,0 +1,6 @@
+timestamp: |-
+  2023-03-20T14:35:59+00:00
+author: Vitaly Potyarkin
+content: |-
+  Apparently, ping 8.8.8.8 does not work in GitHub actions. It's blocked either by Google or by GitHub themselves :-)
+markup: plaintext
