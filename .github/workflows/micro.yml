@@ -7,6 +7,6 @@ jobs:
   trigger-update:
     runs-on: ubuntu-latest
     steps:
-      - run: gh workflow run render.yml --ref smallweb --repo sio/potyarkin.ml
+      - run: gh workflow run render.yml --ref smallweb --repo sio/potyarkin.com
         env:
           GITHUB_TOKEN: ${{ secrets.PAGES_TOKEN }}
